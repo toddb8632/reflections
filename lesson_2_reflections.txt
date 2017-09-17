@@ -8,11 +8,14 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+The staging area and the most recent commit can be compared using diff.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+    Branches would be helpful to keep history when trying experimental or large modifications to projects. The branches allow to diverge but maintain the main branch with the exiting code. If changes are made to the main branch the other branches can be updated.
 
 How do the diagrams help you visualize the branch structure?
+    Diagrams help show the structure or the branches and parent commits
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
