@@ -20,7 +20,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    To collaborate without using Gti or GitHub, you could make copies of a directory or file and save to your workspace. Changes you make could then be copied to a shared drive with a versioned name. An e-mail or text file could be sent or updated to reflect changes. For just one person or maybe two to three, depending on the work flow, this could work without being to messy if everyone agreed and followed a set procedure. For multiple collaborators and for those not accessing a shared drive, Git and GitHub appears like a much better workflow.
+     
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
