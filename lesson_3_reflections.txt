@@ -26,6 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
-
-  *** test push.
+    Make changes in a seperate branch rather than directly in the master when more than one person is colloaborating on the project and you want to review changes prior to incorporating them into the master. Using the seperate branch can help identify errors or conflicts between different editors that need to be resolved before merging with the master branch.
